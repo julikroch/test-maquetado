@@ -1,0 +1,98 @@
+[
+	{
+        "id": "1",
+        "atributes": "zapatillas 38 verde azul",
+        "image": "zapatilla_1.jpg",
+        "imageName": "Zapatilla 1",
+        "name": "Zapatilla 1-XFK",
+        "price": "5000"
+    },
+    {
+        "id": "2",
+        "atributes": "sandalias 44 rojo negro",
+        "image": "zapatilla_2.jpg",
+        "imageName": "Zapatilla 2",
+        "name": "Zapatilla 2000-X",
+        "price": "9800"
+    },
+    {
+        "id": "3",
+        "atributes": "botas 40 verde blanco",
+        "image": "zapatilla_3.jpg",
+        "imageName": "Zapatilla 3",
+        "name": "Zapatilla 3 Run",
+        "price": "6500"
+    },
+    {
+        "id": "4",
+        "atributes": "botas 44 amarillo verde",
+        "image": "zapatilla_3.jpg",
+        "imageName": "Zapatilla 3",
+        "name": "Zapatilla 3 Run",
+        "price": "6500"
+    },
+    {
+        "id": "5",
+        "atributes": "pantuflas 38 verde azul",
+        "image": "zapatilla_1.jpg",
+        "imageName": "Zapatilla 1",
+        "name": "Zapatilla 1-XFK",
+        "price": "5000"
+    },
+    {
+        "id": "6",
+        "atributes": "botas 44 amarillo verde",
+        "image": "zapatilla_2.jpg",
+        "imageName": "Zapatilla 2",
+        "name": "Zapatilla 2000-X",
+        "price": "9800"
+    },
+    {
+        "id": "7",
+        "atributes": "zapatillas 38 verde azul",
+        "image": "zapatilla_1.jpg",
+        "imageName": "Zapatilla 1",
+        "name": "Zapatilla 1-XFK",
+        "price": "5000"
+    },
+    {
+        "id": "8",
+        "atributes": "botas 40 verde blanco",
+        "image": "zapatilla_2.jpg",
+        "imageName": "Zapatilla 2",
+        "name": "Zapatilla 2000-X",
+        "price": "9800"
+    },
+    {
+        "id": "9",
+        "atributes": "botas 44 amarillo verde",
+        "image": "zapatilla_1.jpg",
+        "imageName": "Zapatilla 1",
+        "name": "Zapatilla 1-XFK",
+        "price": "5000"
+    },
+    {
+        "id": "10",
+        "atributes": "botas 40 verde blanco",
+        "image": "zapatilla_2.jpg",
+        "imageName": "Zapatilla 2",
+        "name": "Zapatilla 2000-X",
+        "price": "9800"
+    },
+    {
+        "id": "11",
+        "atributes": "pantuflas 38 verde azul",
+        "image": "zapatilla_3.jpg",
+        "imageName": "Zapatilla 3",
+        "name": "Zapatilla 3 Run",
+        "price": "6500"
+    },
+    {
+        "id": "12",
+        "atributes": "sandalias 44 rojo negro",
+        "image": "zapatilla_1.jpg",
+        "imageName": "Zapatilla 1",
+        "name": "Zapatilla 1-XFK",
+        "price": "5000"
+    }
+]
