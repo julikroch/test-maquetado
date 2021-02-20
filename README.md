@@ -10,15 +10,15 @@ Desde ya que cualquier detalle que le quieras agregar es bienvenido!
 
 Valoraremos fidelidad al diseño desktop y mobile (responsive), código prolijo y semántico, convenciones en nombres de clases (ej BEM).
 
-@@ -15,9 +16,9 @@ Pasos a seguir:
-2. Armar el html y css nuevos según el diseño.
-3. Pushear tus cambios en el fork.
-4. Hacer un pull request en el repositorio original (git@github.com:blaurenzano/test-maquetado.git).
-5. Avisarnos por el medio en que estábamos en contacto que ya está listo el ejercicio con un link al pull request.
+## Pasos a seguir:
+1. Armar el html y css nuevos según el diseño.
+2. Pushear tus cambios en el fork.
+3. Hacer un pull request en el repositorio original (git@github.com:blaurenzano/test-maquetado.git).
+4. Avisarnos por el medio en que estábamos en contacto que ya está listo el ejercicio con un link al pull request.
 5. Avisarnos por el mismo medio en que estábamos en contacto que ya está listo el ejercicio y enviar un link al pull request.
 
 ## Si preferís no usar git:
 1. Descargarte este código inicial como .zip con el botón verde de arriba
 2. Armar el html y css nuevos según el diseño.
 3. Enviarnos un .zip con el código final por el medio en que estábamos en contacto.
-3. Enviarnos un .zip con el código final por el mismo medio en que estábamos en contacto.
+4. Enviarnos un .zip con el código final por el mismo medio en que estábamos en contacto.
